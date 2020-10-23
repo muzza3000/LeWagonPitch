@@ -1,0 +1,13 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.pitch-video {
+    height: 500px;
+}
